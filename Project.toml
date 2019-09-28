@@ -1,0 +1,4 @@
+name = "AltComplex"
+uuid = "66445c90-b162-11e9-3ced-113b9f489826"
+authors = ["Simeon Schaub <simeondavidschaub99@gmail.com>"]
+version = "0.1.0"
